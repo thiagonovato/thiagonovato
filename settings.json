@@ -1,0 +1,65 @@
+{
+  // Define o tema do VSCode
+  "workbench.colorTheme": "Omni",
+  // Aumenta a fonte do terminal
+  "terminal.integrated.fontSize": 14,
+  // Defone o tema dos ícones na sidebar
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  // Configura o tamanho e família das fontes
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 0,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  //
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+  //
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  //
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  //
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "javascript.suggest.autoImports": false,
+  "javascript.preferences.quoteStyle": "single",
+  "window.zoomLevel": 0,
+  "prettier.jsxSingleQuote": true,
+  "typescript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "files.autoSave": "off",
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}
