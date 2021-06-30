@@ -3,4 +3,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-thiagonovato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago@thiagonovato.com.br)](mailto:thiago@thiagonovato.com.br)
 ![Github](https://img.shields.io/badge/-thiagonovato-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thiagonovato/)
 
-I'm Thiago Novato. I'm a Full Stack Developer in JavaScript. Node, ReactJS and React Native, with over 8 years of experience in infrastructure, who is passionate about creating solutions based on my experiences. 
+I'm Thiago Novato. I'm a Full Stack Developer in JavaScript. Node, ReactJS and React Native, with over 15 years of experience in infrastructure, who is passionate about creating solutions based on my experiences. 
